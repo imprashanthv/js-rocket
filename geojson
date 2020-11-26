@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name":"Jamaica"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name":"Afghanistan"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -93,7 +93,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name":"Italy"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -132,7 +132,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name":"Jordan"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
