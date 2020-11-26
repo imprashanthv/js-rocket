@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name":"Jamaica"},
+      "properties": {
+        "name": "Jamaica"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -46,11 +48,14 @@
             ]
           ]
         ]
-      },"id":"JAM"
+      },
+      "id": "JAM"
     },
     {
       "type": "Feature",
-      "properties": {"name":"Afghanistan"},
+      "properties": {
+        "name": "Afghanistan"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -89,11 +94,14 @@
             ]
           ]
         ]
-      },"id":"AFG"
+      },
+      "id": "AFG"
     },
     {
       "type": "Feature",
-      "properties": {"name":"Italy"},
+      "properties": {
+        "name": "Italy"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -128,11 +136,14 @@
             ]
           ]
         ]
-      },"id":"ITA"
+      },
+      "id": "ITA"
     },
     {
       "type": "Feature",
-      "properties": {"name":"Jordan"},
+      "properties": {
+        "name": "Jordan"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -167,7 +178,51 @@
             ]
           ]
         ]
-      },"id":"JOR"
+      },
+      "id": "JOR"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.0703125,
+              35.17380831799959
+            ],
+            [
+              45.703125,
+              46.800059446787316
+            ],
+            [
+              27.421875,
+              32.24997445586331
+            ],
+            [
+              33.046875,
+              6.315298538330033
+            ],
+            [
+              60.46875,
+              -2.460181181020993
+            ],
+            [
+              99.140625,
+              12.897489183755892
+            ],
+            [
+              96.328125,
+              28.92163128242129
+            ],
+            [
+              72.0703125,
+              35.17380831799959
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
